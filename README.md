@@ -38,7 +38,7 @@ Technologies Used :
 React\
 TypeScript\
 HTML5 & CSS3\
-OpenAI API\
+OpenAI API
 
 Setup and Installation :
 
@@ -76,11 +76,11 @@ Usage :
 Open your web browser and go to http://localhost:3000.\
 Type your queries or messages in the chat input box.\
 Receive instant, AI-generated responses powered by the OpenAI API.\
-Enjoy seamless and interactive conversation experiences.\
+Enjoy seamless and interactive conversation experiences.
 
 Results and Benefits :
 
 Fast and intelligent response generation for various queries.\
 Simple yet elegant interface that adapts to different screen sizes.\
 Demonstrates modern React and TypeScript best practices.\
-A practical example of integrating cutting-edge AI into front-end apps.\
+A practical example of integrating cutting-edge AI into front-end apps.
