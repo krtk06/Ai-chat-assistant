@@ -73,7 +73,7 @@ npm start
 
 Usage :
 
-Open your web browser and go to http://localhost:3000.\
+Open your web browser and go to http://localhost:3000// \
 Type your queries or messages in the chat input box.\
 Receive instant, AI-generated responses powered by the OpenAI API.\
 Enjoy seamless and interactive conversation experiences.
