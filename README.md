@@ -21,6 +21,16 @@ TypeScript\
 HTML5 & CSS3\
 OpenAI API\
 
+Usage :
+
+Open the app in your browser (usually at http://localhost:3000)\
+Type your messages to chat with the AI assistant\
+Get fast, smart responses powered by OpenAI models\
+
+Notes :
+
+Ensure you have a valid OpenAI API key to enable AI functionality.\
+This project is a front-end focused implementation demonstrating AI integration with React and TypeScript.****\
 
 ## Expanding the ESLint configuration
 
