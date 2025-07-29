@@ -1,30 +1,25 @@
 
-AI Chat Assistant
-Description
+AI Chat Assistant :
+
+Description :
+
 An AI Chat Assistant application built using HTML, CSS, React, and TypeScript, integrated with the OpenAI API. This app allows users to interact in real-time with a smart AI-powered assistant, delivering instant responses through a modern, responsive, and user-friendly interface. It demonstrates advanced front-end development along with AI integration.
 
-Features
+Features:
+
 Real-time chat with AI assistant using OpenAI API
-
 Interactive UI built with React for seamless updates
-
 TypeScript for type safety and maintainability
-
 Responsive design using CSS for accessibility on various devices
-
 State management for handling conversations and user inputs
-
 Easily extensible for adding more AI capabilities or UI enhancements
 
-Technologies Used
+Technologies Used:
+
 React
-
 TypeScript
-
 HTML5 & CSS3
-
 OpenAI API
-
 
 
 ## Expanding the ESLint configuration
