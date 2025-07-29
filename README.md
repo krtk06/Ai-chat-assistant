@@ -11,7 +11,7 @@ Interactive UI built with React for dynamic and smooth updates.\
 TypeScript integration for enhanced type safety and maintainability.\
 Responsive design with CSS for optimal experience across devices.\
 Efficient state management for handling user input and chat history.\
-Easily extensible architecture for future feature expansion.\
+Easily extensible architecture for future feature expansion.
 
 Project Structure :
 
