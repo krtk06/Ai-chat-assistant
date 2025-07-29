@@ -6,12 +6,12 @@ The AI Chat Assistant is an intelligent web application that enables real-time c
 
 Key Features :
 
-Real-time chat interface with AI assistant using OpenAI API\
-Interactive UI built with React for dynamic and smooth updates\
-TypeScript integration for enhanced type safety and maintainability\
-Responsive design with CSS for optimal experience across devices\
-Efficient state management for handling user input and chat history\
-Easily extensible architecture for future feature expansion\
+Real-time chat interface with AI assistant using OpenAI API.\
+Interactive UI built with React for dynamic and smooth updates.\
+TypeScript integration for enhanced type safety and maintainability.\
+Responsive design with CSS for optimal experience across devices.\
+Efficient state management for handling user input and chat history.\
+Easily extensible architecture for future feature expansion.\
 
 Project Structure :
 
@@ -73,14 +73,14 @@ npm start
 
 Usage :
 
-Open your web browser and go to http://localhost:3000\
-Type your queries or messages in the chat input box\
-Receive instant, AI-generated responses powered by the OpenAI API\
-Enjoy seamless and interactive conversation experiences\
+Open your web browser and go to http://localhost:3000.\
+Type your queries or messages in the chat input box.\
+Receive instant, AI-generated responses powered by the OpenAI API.\
+Enjoy seamless and interactive conversation experiences.\
 
 Results and Benefits :
 
-Fast and intelligent response generation for various queries\
-Simple yet elegant interface that adapts to different screen sizes\
-Demonstrates modern React and TypeScript best practices\
-A practical example of integrating cutting-edge AI into front-end apps\
+Fast and intelligent response generation for various queries.\
+Simple yet elegant interface that adapts to different screen sizes.\
+Demonstrates modern React and TypeScript best practices.\
+A practical example of integrating cutting-edge AI into front-end apps.\
