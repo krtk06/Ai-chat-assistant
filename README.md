@@ -16,10 +16,10 @@ Easily extensible for adding more AI capabilities or UI enhancements.\
 
 Technologies Used:
 
-React
-TypeScript
-HTML5 & CSS3
-OpenAI API
+React\
+TypeScript\
+HTML5 & CSS3\
+OpenAI API\
 
 
 ## Expanding the ESLint configuration
